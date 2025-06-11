@@ -1,0 +1,4 @@
+default:
+  app-name: 'Visual Span Log Server'
+  version: 0.1
+  logDirectory: "/logs/"
